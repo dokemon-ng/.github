@@ -75,8 +75,7 @@ Open https://dokemon.example.com (substitute your URL here which you entered as 
 ## Screenshots
 
 ### Manage Multiple Servers
-
-![Alt text](/dokemon/screenshots/screenshot-dokemon-nodes.jpg?raw=true "Dokemon Nodes")
+![Alt text](https://raw.githubusercontent.com/dokemon-ng/dokemon/main/screenshots/screenshot-dokemon-nodes.jpg)
 
 ### Manage Variables for Different Environments
 
