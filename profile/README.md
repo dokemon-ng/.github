@@ -75,19 +75,19 @@ Open https://dokemon.example.com (substitute your URL here which you entered as 
 ## Screenshots
 
 ### Manage Multiple Servers
-![Alt text](https://raw.githubusercontent.com/dokemon-ng/dokemon/main/screenshots/screenshot-dokemon-nodes.jpg)
+![Alt text](https://github.com/dokemon-ng/dokemon/raw/main/screenshots/screenshot-dokemon-nodes.jpg?raw=true)
 
 ### Manage Variables for Different Environments
 
-![Alt text](/dokemon/screenshots/screenshot-dokemon-variables.jpg?raw=true "Dokemon Variables")
+![Alt text](https://github.com/dokemon-ng/dokemon/raw/main/screenshots/screenshot-dokemon-variables.jpg?raw=true)
 
 ### Deploy Compose Projects
 
-![Alt text](/dokemon/screenshots/screenshot-dokemon-compose-up.jpg?raw=true "Dokemon Compose Up")
+![Alt text](https://github.com/dokemon-ng/dokemon/raw/main/screenshots/screenshot-dokemon-compose-up.jpg?raw=true)
 
 ### Manage Containers, Images, Volumes, Networks
 
-![Alt text](/dokemon/screenshots/screenshot-dokemon-containers.jpg?raw=true "Dokemon Containers")
+![Alt text](https://github.com/dokemon-ng/dokemon/raw/main/screenshots/screenshot-dokemon-containers.jpg?raw=true)
 
 ## License
 
