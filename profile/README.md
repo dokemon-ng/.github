@@ -2,7 +2,7 @@
 
 Dokémon is a friendly GUI for managing Docker Containers. You can manage multiple servers from a single Dokemon instance.
 
-Check https://dokemon.dev for more details.
+Check https://dokemon.einstein.amsterdam (old: https://dokemon.dev) for more details.
 
 ## Quickstart
 
