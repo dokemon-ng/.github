@@ -1,8 +1,8 @@
 ---
-name: "TODO Item"
-about: "Track work items for the project"
-title: "[TODO]: "
-labels: "todo"
+name: "TODO Item"  # Display name
+about: "Track work items"  # Description
+title: "[TODO]: "  # Default title prefix
+labels: ["todo"]  # Auto-applied labels
 ---
 
 ## Description
