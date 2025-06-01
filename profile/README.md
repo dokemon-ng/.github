@@ -3,12 +3,9 @@
 </div>
 Dokémon is a friendly GUI for managing Docker Containers. You can manage multiple servers from a single Dokémon instance.
 
-
 ## Quickstart
 
 You can run the below commands to quickly try out Dokémon.
-
-**Note:** Whenever possible, it is recommended that you run Dokémon in a private network and do not expose it to the Internet. In cases where this is not possible, for example when running on a VPS to which you only have public access, you should run Dokémon behind an SSL enabled reverse proxy and use a strong password for maximum security. Refer the next section for sample configuration using Traefik.
 
     # Create directory to store Dokémon data
     sudo mkdir /dokemondata
@@ -19,6 +16,8 @@ You can run the below commands to quickly try out Dokémon.
       -v /var/run/docker.sock:/var/run/docker.sock \
       --restart unless-stopped \
       --name dokemon-server -d javastraat/dokemon-server:latest
+
+**Note:** Whenever possible, it is recommended that you run Dokémon in a private network and do not expose it to the Internet. In cases where this is not possible, for example when running on a VPS to which you only have public access, you should run Dokémon behind an SSL enabled reverse proxy and use a strong password for maximum security. Refer the next section for sample configuration using Traefik.
 
 ## Using Traefik with LetsEncrypt SSL certificate
 
