@@ -1,6 +1,6 @@
-
-<img src="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="500" alt="Dokemon Logo">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="200" alt="Dokémon Logo">
+</div>
 Dokémon is a friendly GUI for managing Docker Containers. You can manage multiple servers from a single Dokémon instance.
 
 Check https://dokemon.einstein.amsterdam (old: https://dokemon.dev) for more details.
