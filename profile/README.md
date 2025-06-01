@@ -1,4 +1,5 @@
 ![Alt text](https://github.com/dokemon-ng/dokemon/raw/main/screenshots/dokemon-light.svg?raw=true)
+![Alt text](https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png)
 
 Dokémon is a friendly GUI for managing Docker Containers. You can manage multiple servers from a single Dokémon instance.
 
