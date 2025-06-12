@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="500">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo-rect1.png" width="500">
-  <img alt="YDokémon (Dokemon) Logo" src="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="500">
+  <img alt="Dokémon (Dokemon) Logo" src="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="500">
 </picture>
 </div>
 
