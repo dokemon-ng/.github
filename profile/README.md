@@ -1,4 +1,3 @@
-# dokemon-ng
 <div align="center">
   <img src="https://raw.githubusercontent.com/dokemon-ng/.github/refs/heads/main/dokemon-logo.png" width="500" alt="Dokémon (Dokemon) Logo">
 </div>
