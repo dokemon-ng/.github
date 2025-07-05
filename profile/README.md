@@ -77,9 +77,8 @@ Docker Compose Volume Version
           - dokemondata:/data
           - /var/run/docker.sock:/var/run/docker.sock
         restart: unless-stopped
-
-volumes:
-    dokemondata:
+    volumes:
+        dokemondata:
     
 **Note:** Whenever possible, it is recommended that you run Dokémon (Dokemon) in a private network and do not expose it to the Internet. In cases where this is not possible, for example when running on a VPS to which you only have public access, you should run Dokémon (Dokemon) behind an SSL enabled reverse proxy and use a strong password for maximum security. Refer the next section for sample configuration using Traefik.
 
